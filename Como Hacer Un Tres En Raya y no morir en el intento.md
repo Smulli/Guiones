@@ -30,11 +30,13 @@ Lo crearé olvidándome por completo de que todas las cosas de este mundo necesi
 
 ---
 
-**(Mostrar imagen de 2 years later...)** Después de esperar 2 años, 24 meses, 730 días, 17.520 pajas, para que me abriese el puto Unity comenzaré por instalar una serie de paquetes que nos resultaran de gran ayuda para el 3 en raya **(Sonido de Smulli ¡5!)** que vamos a hacer... Smulli que sí... Ya se que es ¡5! **(Sonido de Smulli diciendo por el culo te la inco!)**. 
+**(Mostrar imagen de 2 years later...)** Después de esperar 2 años, 24 meses, 730 días, 17.520 pajas, el puto Unity decidió abrirse comenzaré por instalar una serie de paquetes que nos resultaran de gran ayuda para el 3 en raya **(Sonido de Smulli ¡5!)** que vamos a hacer... **(Pausa)** Smulli que sí... Ya se que es ¡5! **(Sonido de Smulli diciendo por el culo te la inco!)**.
 
-Procedo a ir a la Market Place de Unreal para Unity, buscaré el asset llamado PUN2 de Photon, seleccionaré obviamente la versión para humildes y lo añadiré a mis assets, que lo podremos encontrar con facilidad dentro de *Windows -> Package Manager*, pero antes de instalar nada debemos registrarnos en photonengine.com y crear un proyecto de tipo PUN que por sus siglas significa Photon Unity Network.
+Procederé a ir a la Market Place de Unreal para Unity, buscaré el asset llamado PUN2 de Photon, seleccionaré obviamente la versión para humildes y lo añadiré a mis assets y ya que es un poco especial **(Mostrar meme de dumb)** lo dejaremos para el futuro **(Hacer animación de agujero de gusano)**, asi que procederemos con el resto de paquetes.
 
-Continuo instalando 3 paquetes más de vital importancia para que nuestro proyecto obtenga unos resultados notables, y son: CineMachine, TimeLine y TextMeshPro.
+Instalaremos 3 paquetes de vital importancia para que nuestro proyecto obtenga unos resultados notables, y son: CineMachine, TimeLine y TextMeshPro.
+
+para cuando queramos instalarlo nos vamos a *Windows -> Package Manager*
 
 Crearé una carpeta llamada dependencias dentro del proyecto que lo usaré como basurero para toda la mierda instalada de los paquetes para que así no molesten.
 
@@ -42,7 +44,7 @@ Crearé una carpeta llamada dependencias dentro del proyecto que lo usaré como 
 
 ---
 
-En la escena que usaremos de plantilla se deben realizar ciertas configuraciones, para que el juego no se vea como tú, cuando te acabas de despertar de una cruda.
+En la escena que usaremos de plantilla se deben realizar ciertas configuraciones, para que el juego no se vea como tú, cuando te acabaste una maratón de One Piece y no has visto el progreso de la humanidad en 100.000 años.
 
 Nos dirijiremos a la pestaña *Windows > Rendering > Lighting > Environment* y nos aparecerá una ventana bien chingonas para mejorar la iluminación de nuestra escena pero por el momento centrémonos en desactivar y bajar la intensidad de las luces de ambiente a 0.
 
@@ -54,10 +56,15 @@ Recuerda que es importante que reiteradamente en alguna ocasión presiones el co
 
 ---
 
-Añado mi tablero a la escena importado de Blender, por que como buen artista que soy me gusta hacer todos mis assets desde 0 excepto cuando me da flojera modelarlos o texturizarlos, le colocaré un Mesh Collider, Crearé un cubo y ajustaré su escala para que tenga el mísmo tamaño que las celdas del tablero, marcaremos el collider del cubo como Trigger y lo colocaré en una layer distinta a la que llamaremos Celdas, renombraré el cubo como Cell y lo arrastraré a la pestaña de proyecto para convertirlo en prefab **(Mostrar meme de Cell sintió el verdadero terror)** Agregaré una ficha a la escena y le colocaré un Mesh Collider, la guardaré como otro prefab, y haré variantes de la misma "para las piesas", así para cuando tengamos que editarlas, podremos recurrir directamente al padre y se actualizarán el resto.
+Añado mi tablero importado de Blender a la escena, por que como buen artista que soy me gusta hacer todos mis assets desde 0 excepto cuando me da flojera modelarlos o texturizarlos, le colocaré un Mesh Collider.
+
+Crearé un cubo y ajustaré su escala para que tenga el mísmo tamaño que las celdas del tablero, marcaremos el collider del cubo como Trigger y lo colocaré en una layer distinta a la que llamaremos Celdas, renombraré el cubo como Cell y lo arrastraré a la pestaña de proyecto para convertirlo en prefab.
+
+Agregaré una ficha a la escena y le colocaré un Mesh Collider, la guardaré como otro prefab, y haré variantes de la misma para el resto de fichas, así para cuando tengamos que editarlas, podremos recurrir directamente al padre y se actualizarán el resto.
 
 ## Despedida
 
 ---
+Y hasta aquí la primera parte de esta serie de como hacer tu Tres en Raya y no morir en el intento.
 
-Espero que hayan seguido bien los pasos y recuerden suscribirse a este canal para ver más de mi contenido, comenten que les ha parecido el vídeo me ayudará mucho a seguir haciendolos, no te olvides de tu pulgarcito, por último puedes seguirme en mi cuenta de Twitter y también en Twitch, allí hago directos ricolinos y puedes verme picar código como un loco haciendo cosas chulas, me despido compas y nos vemos en el siguiente ¡chaoooo!
+Espero que hayan seguido bien los pasos y recuerden suscribirse a este canal para ver más de mi contenido, comenten que les ha parecido el vídeo me ayudará mucho a seguir haciendolos, no te olvides de tu pulgarcito, por último puedes seguirme en mi cuenta de Twitter y también en Twitch, allí hago directos ricolinos y puedes verme picar código como un loco haciendo cosas chulas, me desquepido compas ¡Suerte!
