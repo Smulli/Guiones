@@ -30,7 +30,9 @@ Lo crearé olvidándome por completo de que todas las cosas de este mundo necesi
 
 ---
 
-**(Mostrar imagen de 2 years later...)** Después de esperar 2 años, 24 meses, 730 días, 17.520 horas, 1.051.200 minutos y 1.513.728.000 segundos para que me abriese el puto Unity comenzaré por instalar una serie de paquetes que nos resultaran de gran ayuda para el 3 en raya **(Sonido de Smulli ¡5!)** que vamos a hacer, procedo a ir a la Market Place de Unreal para Unity, buscaré el asset llamado PUN2 de Photon, seleccionaré obviamente la versión para humildes y lo añadiré a mis assets, que lo podremos encontrar con facilidad dentro de *Windows -> Package Manager*, pero antes de instalar nada debemos registrarnos en photonengine.com y crear un proyecto de tipo PUN que por sus siglas significa Photon Unity Network.
+**(Mostrar imagen de 2 years later...)** Después de esperar 2 años, 24 meses, 730 días, 17.520 pajas, para que me abriese el puto Unity comenzaré por instalar una serie de paquetes que nos resultaran de gran ayuda para el 3 en raya **(Sonido de Smulli ¡5!)** que vamos a hacer... Smulli que sí... Ya se que es ¡5! **(Sonido de Smulli diciendo por el culo te la inco!)**. 
+
+Procedo a ir a la Market Place de Unreal para Unity, buscaré el asset llamado PUN2 de Photon, seleccionaré obviamente la versión para humildes y lo añadiré a mis assets, que lo podremos encontrar con facilidad dentro de *Windows -> Package Manager*, pero antes de instalar nada debemos registrarnos en photonengine.com y crear un proyecto de tipo PUN que por sus siglas significa Photon Unity Network.
 
 Continuo instalando 3 paquetes más de vital importancia para que nuestro proyecto obtenga unos resultados notables, y son: CineMachine, TimeLine y TextMeshPro.
 
