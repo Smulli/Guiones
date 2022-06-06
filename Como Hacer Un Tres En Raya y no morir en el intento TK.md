@@ -155,3 +155,14 @@ Listo ya tenemos el X0 Funcionando, ahora a implementar el Online (FUCK)
 2. al Conectarnos correctamente con el lobby este debera activarnos el menu de busqueda de Salas.
 
 3. Crear un script (RoomCC) que nos gestione las conecciones con la Sala u con
+
+## Creando Lobby.
+
+---
+1.
+
+## Creando Sala de Juego.
+
+---
+
+## Añadiendo Multiplayer al GameLoop.
